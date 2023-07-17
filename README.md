@@ -6,9 +6,10 @@ software project with great API
 * [redis](https://redis.io/)
 * [spring boot](https://spring.io/projects/spring-boot) vs spring
 
-# httpclient
+# http related
 * [Unirest-Java](http://kong.github.io/unirest-java/)
 * [requests](https://github.com/psf/requests) python http client
+* [graphsql](https://graphql.org/)
 
 
 
